@@ -1,6 +1,7 @@
 # Sample Quarkus App
 
-This project uses Quarkus, the Supersonic Subatomic Java Framework. This project is used a demonstration in my blog.
+This project uses Quarkus, the Supersonic Subatomic Java Framework. 
+This project is used a demonstration in my blog [https://praveeng-nair.medium.com/bootstrapping-a-quarkus-app-a87dbec0b7e5](Bootstrapping Quarkus with GraalVM).
 
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
